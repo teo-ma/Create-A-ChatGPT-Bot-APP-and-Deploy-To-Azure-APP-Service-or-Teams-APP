@@ -16,4 +16,3 @@ def process_gpt(request):
   # Return the formatted response text
   return response_text
 
-  # return response.choices[0].text
