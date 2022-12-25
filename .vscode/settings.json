@@ -1,4 +1,0 @@
-{
-    "appService.defaultWebAppToDeploy": "/subscriptions/6fa8eb6f-e2f1-493f-b01d-d47253728c9f/AppServices/subscriptions/6fa8eb6f-e2f1-493f-b01d-d47253728c9f/resourceGroups/myResourceGroup1110/providers/Microsoft.Web/sites/openai7",
-    "appService.deploySubpath": "."
-}
